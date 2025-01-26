@@ -1,0 +1,97 @@
+<RCC>
+  <qresource prefix="Icons">
+    <file>Icons/3D_1.png</file>
+    <file>Icons/Back.png</file>
+    <file>Icons/Export.png</file>
+    <file>Icons/Image.png</file>
+    <file>Icons/Live.png</file>
+    <file>Icons/Print.png</file>
+    <file>Icons/Report.png</file>
+    <file>Icons/Save and Continue.png</file>
+    <file>Icons/Bottom.png</file>
+    <file>Icons/Center.png</file>
+    <file>Icons/Up.png</file>
+    <file>Icons/Abort.png</file>
+    <file>Icons/admin.png</file>
+    <file>Icons/App.svg</file>
+    <file>Icons/BackLightsvg.svg</file>
+    <file>Icons/Binocular.svg</file>
+    <file>Icons/camera.png</file>
+    <file>Icons/CameraIcon.svg</file>
+    <file>Icons/ColorIcon.svg</file>
+    <file>Icons/Cursor.svg</file>
+    <file>Icons/Cursoricon.svg</file>
+    <file>Icons/Detail.png</file>
+    <file>Icons/Detail_Checked.png</file>
+    <file>Icons/export project.png</file>
+    <file>Icons/File.svg</file>
+    <file>Icons/Fileopen.svg</file>
+    <file>Icons/Folder.svg</file>
+    <file>Icons/Group8.svg</file>
+    <file>Icons/help.png</file>
+    <file>Icons/Hexaicon.svg</file>
+    <file>Icons/home.png</file>
+    <file>Icons/Image.svg</file>
+    <file>Icons/Imagen.png</file>
+    <file>Icons/import project.png</file>
+    <file>Icons/Intensity.svg</file>
+    <file>Icons/Layout.svg</file>
+    <file>Icons/left.png</file>
+    <file>Icons/lense.png</file>
+    <file>Icons/LenseIcon.svg</file>
+    <file>Icons/light intensity.png</file>
+    <file>Icons/light.png</file>
+    <file>Icons/Logo.png</file>
+    <file>Icons/MediaImage.png</file>
+    <file>Icons/motor.png</file>
+    <file>Icons/MT.svg</file>
+    <file>Icons/open.png</file>
+    <file>Icons/Photo001.bmp</file>
+    <file>Icons/PlaceholderImage.png</file>
+    <file>Icons/Precision.png</file>
+    <file>Icons/Precision_Checked.png</file>
+    <file>Icons/Print.svg</file>
+    <file>Icons/Pump.svg</file>
+    <file>Icons/pxlsenseai_logo.png</file>
+    <file>Icons/pxlsenseaidark.png</file>
+    <file>Icons/pxlsenseaidarkCopy.png</file>
+    <file>Icons/pxlsenseailight.png</file>
+    <file>Icons/pxlsenseailightCopy.png</file>
+    <file>Icons/pxlsenseailogo.png</file>
+    <file>Icons/Quick.png</file>
+    <file>Icons/Quick_Checked.png</file>
+    <file>Icons/Reporticon.svg</file>
+    <file>Icons/Resolution.png</file>
+    <file>Icons/right.png</file>
+    <file>Icons/ring1.gif</file>
+    <file>Icons/ring2.gif</file>
+    <file>Icons/ring3.gif</file>
+    <file>Icons/ring4.gif</file>
+    <file>Icons/Rotary.svg</file>
+    <file>Icons/RotaryR.svg</file>
+    <file>Icons/save.png</file>
+    <file>Icons/save.svg</file>
+    <file>Icons/Scan.svg</file>
+    <file>Icons/scisssor.svg</file>
+    <file>Icons/Search.svg</file>
+    <file>Icons/Shapes.png</file>
+    <file>Icons/Shapes.svg</file>
+    <file>Icons/StageIcon.svg</file>
+    <file>Icons/Start.png</file>
+    <file>Icons/Start_Checked.png</file>
+    <file>Icons/table.png</file>
+    <file>Icons/user blue.png</file>
+    <file>Icons/user.png</file>
+    <file>Icons/Capture.png</file>
+    <file>Icons/Distortion.png</file>
+    <file>Icons/Warning.png</file>
+    <file>Icons/Zoom In.png</file>
+    <file>Icons/Zoom Out.png</file>
+    <file>Icons/VacuumIcn.svg</file>
+    <file>Icons/VacuumIcon.svg</file>
+    <file>Icons/veccum pump.png</file>
+    <file>Icons/wizard launch.png</file>
+    <file>Icons/wizard settings.png</file>
+    <file>Icons/XY.svg</file>
+  </qresource>
+</RCC>

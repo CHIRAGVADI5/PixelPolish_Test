@@ -1,0 +1,10 @@
+{
+    "python.analysis.extraPaths": [
+        "./UI/",
+        "./Source/",
+        "./Resource/"
+    ],
+    "terminal.integrated.env.windows": {
+        "PYTHONPATH": "D:/GitCode/PixelPolish_Test"
+    }
+}
